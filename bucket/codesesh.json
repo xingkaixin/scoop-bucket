@@ -1,12 +1,12 @@
 {
-  "version": "1.4.3",
+  "version": "1.4.4",
   "description": "Browse local AI coding sessions",
   "homepage": "https://codesesh.xingkaixin.me",
   "license": "MIT",
   "architecture": {
     "64bit": {
-      "url": "https://github.com/xingkaixin/codesesh/releases/download/v1.4.3/codesesh-1.4.3-x86_64-pc-windows-msvc.tar.gz",
-      "hash": "ea93dc724e0a38ee7449520714936acd000d09b2358748c391bce8193af7fbb1"
+      "url": "https://github.com/xingkaixin/codesesh/releases/download/v1.4.4/codesesh-1.4.4-x86_64-pc-windows-msvc.tar.gz",
+      "hash": "afe736f02fffec65a54c5768533a385f5ee7f24bcb469c8f5ad47b3c63109a36"
     }
   },
   "bin": "codesesh.exe"
