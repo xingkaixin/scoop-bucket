@@ -1,12 +1,12 @@
 {
-  "version": "1.2.12",
+  "version": "1.2.13",
   "description": "Export and search AI coding assistant sessions",
   "homepage": "https://github.com/xingkaixin/agent-dump",
   "license": "MIT",
   "architecture": {
     "64bit": {
-      "url": "https://github.com/xingkaixin/agent-dump/releases/download/v1.2.12/agent-dump-win32-x64.exe#/agent-dump.exe",
-      "hash": "7b19ecaaceb55315c973b3e69e0c0be5e10570604b43306de8c66d92fa104a71"
+      "url": "https://github.com/xingkaixin/agent-dump/releases/download/v1.2.13/agent-dump-win32-x64.exe#/agent-dump.exe",
+      "hash": "1bc9b44ececfb31084718f50241f189c790f953667b4ed06b7e09fb58413d788"
     }
   },
   "bin": "agent-dump.exe"
